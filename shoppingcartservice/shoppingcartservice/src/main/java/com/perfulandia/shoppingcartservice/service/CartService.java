@@ -3,6 +3,7 @@ package com.perfulandia.shoppingcartservice.service;
 import com.perfulandia.shoppingcartservice.model.CarritoCompra;
 import com.perfulandia.shoppingcartservice.model.Producto;
 import com.perfulandia.shoppingcartservice.repository.CartRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -21,6 +22,7 @@ public class CartService {
     //private final RestTemplate restTemplate;
 
     //Constructor
+    @Autowired
     public CartService(CartRepository cartRepository, RestTemplate restTemplate) {
         this.cartRepository = cartRepository;
         this.restTemplate = restTemplate;
@@ -40,6 +42,10 @@ public class CartService {
      if(producto == null){
         throw new RuntimeException("Producto no encontrado");
      }
+        // 2. Validar stock disponible (ejemplo adicional)
+        if(carritoCompra.getCantidad() > producto.getStock()) {
+            throw new RuntimeException("Stock insuficiente");
+        }
         return cartRepository.save(carritoCompra);
     }
 

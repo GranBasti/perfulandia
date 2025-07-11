@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b3903eb-1d9b-435d-803a-8b16464b81dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/perfulandia_clon1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/perfulandia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/productservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productservice/productservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/model/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/src/main/java/com/perfulandia/shoppingcartservice/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/src/main/java/com/perfulandia/shoppingcartservice/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/src/main/java/com/perfulandia/shoppingcartservice/model/CarritoCompra.java" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/src/main/java/com/perfulandia/shoppingcartservice/model/CarritoCompra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/src/main/java/com/perfulandia/shoppingcartservice/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/src/main/java/com/perfulandia/shoppingcartservice/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/usuarioservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/modelo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/modelo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2zax5P93x2x6acZYnBdbAP5ODmv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ProductoControllerTest.executor": "Run",
+    "JUnit.ProductoServiceTest.executor": "Run",
+    "JUnit.ProductserviceApplicationTests.executor": "Run",
+    "JUnit.ShoppingCartControllerTest.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.testSave.executor": "Run",
+    "JUnit.ShoppingcartserviceApplicationTests.executor": "Run",
+    "JUnit.UsuarioControllerTest.executor": "Run",
+    "JUnit.UsuarioServiceTest.executor": "Run",
+    "JUnit.UsuarioServiceTest.testSave.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ProductserviceApplication.executor": "Run",
+    "Spring Boot.ShoppingcartserviceApplication.executor": "Run",
+    "Spring Boot.UsuarioserviceApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/BASTI/Desktop/CLONES/perfulandia_clon1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShoppingcartserviceApplication">
+    <configuration name="ProductoControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="productservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perfulandia.productservice.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.perfulandia.productservice.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.perfulandia.productservice.controller.ProductoControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="productservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perfulandia.productservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.perfulandia.productservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.perfulandia.productservice.service.ProductoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingcartservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perfulandia.shoppingcartservice.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.perfulandia.shoppingcartservice.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.perfulandia.shoppingcartservice.controller.ShoppingCartControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingcartservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perfulandia.shoppingcartservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.perfulandia.shoppingcartservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.perfulandia.shoppingcartservice.service.ShoppingCartServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usuarioservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perfulandia.usuarioservice.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.perfulandia.usuarioservice.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.perfulandia.usuarioservice.controller.UsuarioControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="productservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia.productservice.ProductserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingcartserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="shoppingcartservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia.shoppingcartservice.ShoppingcartserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="usuarioservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia.usuarioservice.UsuarioserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductoControllerTest" />
+        <item itemvalue="JUnit.ProductoServiceTest" />
+        <item itemvalue="JUnit.ShoppingCartControllerTest" />
+        <item itemvalue="JUnit.ShoppingCartServiceTest" />
+        <item itemvalue="JUnit.UsuarioControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b3903eb-1d9b-435d-803a-8b16464b81dd" name="Changes" comment="" />
+      <created>1751982802755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751982802755</updated>
+      <workItem from="1751982804455" duration="15076000" />
+      <workItem from="1752134808349" duration="21163000" />
+      <workItem from="1752182071085" duration="924000" />
+      <workItem from="1752184507288" duration="463000" />
+      <workItem from="1752190561035" duration="5519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/shoppingcartservice/shoppingcartservice/src/test/java/com/perfulandia/shoppingcartservice/service/ShoppingCartServiceTest.java</url>
+          <line>72</line>
+          <properties class="com.perfulandia.shoppingcartservice.service.ShoppingCartServiceTest" method="testSave">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
